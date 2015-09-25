@@ -1,4 +1,3 @@
 # courseproject
 
-
-TODO: "Add any projects or websites that have interested you so far"
+Project: EVE Online Market Analysis Tool
